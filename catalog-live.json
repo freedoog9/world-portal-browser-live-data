@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "baseCatalogRevision": 1,
-  "publishedAt": "2026-07-01T15:05:41+09:00",
+  "publishedAt": "2026-07-01T15:31:42+09:00",
   "worldUpdates": [
     {
       "worldId": "wrld_dd036610-a246-4f52-bf01-9d7cea3405d7",
-      "worldDescription": "有名人狼ゲーム「Among Us」ができるゲーム。\nテスト",
-      "totalVisits": 63953335,
+      "worldDescription": "有名人狼ゲーム「Among Us」ができるゲーム。\n外部テスト",
+      "totalVisits": 1,
       "updateDate": "2025-05-14",
       "mainCategory": 1,
       "subCategories": [
