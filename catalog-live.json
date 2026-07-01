@@ -1,20 +1,6 @@
 {
   "schemaVersion": 1,
-  "baseCatalogRevision": 1,
-  "publishedAt": "2026-07-01T15:56:48+09:00",
-  "worldUpdates": [
-    {
-      "worldId": "wrld_dd036610-a246-4f52-bf01-9d7cea3405d7",
-      "worldDescription": "有名人狼ゲーム「Among Us」ができるゲーム。",
-      "totalVisits": 64076749,
-      "updateDate": "2025-05-14",
-      "mainCategory": 1,
-      "subCategories": [
-        "PvP",
-        "Quest対応",
-        "デスクトップ対応",
-        "人狼"
-      ]
-    }
-  ]
+  "baseCatalogRevision": 2,
+  "publishedAt": "2026-07-01T16:12:25+09:00",
+  "worldUpdates": []
 }
