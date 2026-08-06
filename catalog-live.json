@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "baseCatalogRevision": 756,
-  "publishedAt": "2026-08-06T20:05:04+09:00",
+  "publishedAt": "2026-08-06T20:08:59+09:00",
   "worldUpdates": [
     {
       "worldId": "wrld_dd036610-a246-4f52-bf01-9d7cea3405d7",
@@ -14,6 +14,17 @@
         "Quest対応",
         "デスクトップ対応",
         "人狼"
+      ],
+      "isVisible": false
+    },
+    {
+      "worldId": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
+      "worldDescription": "改変したアバターのチェックができるワールド。\n大きいミラーに加え、アバターをフィギュア化して見れるギミックなどアバターのチェックに役立つ機能がたくさんある。",
+      "totalVisits": 22592161,
+      "updateDate": "2026-06-21",
+      "mainCategory": 7,
+      "subCategories": [
+        "Quest対応"
       ],
       "isVisible": false
     }
